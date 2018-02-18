@@ -1,0 +1,5 @@
+/.vs
+slnx.sqlite
+*.sqlite
+/.vs/*.sqlite
+.vs/*.sqlite` 
